@@ -1,0 +1,17 @@
+{
+    "name": "misha/phpunit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "misha",
+            "email": "moroz.mkhl@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    }
+}
